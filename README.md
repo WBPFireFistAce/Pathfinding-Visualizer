@@ -1,3 +1,4 @@
+Live project: https://pathfinding-algo-js.herokuapp.com/
 This project was done in order to solidify my understanding of path finding algorithms. As of right now, I have only implemented Dijkstra's algorithm, but I hope to implement more in the near future. The user can use the mouse to create walls between the start and the end point. Here's a demo:
 
 <a href="https://github.com/WBPFireFistAce/Pathfinding-Visualizer/blob/master"><img src="https://github.com/WBPFireFistAce/Pathfinding-Visualizer/blob/master/Pathfinding%20Visualizer.gif"/></a>
